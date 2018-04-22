@@ -1,0 +1,21 @@
+.idea
+
+test.py
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.csv
+dist
+build
+
+
+
+output/summary/
+output/RandomForest
+basic.py
+randomForest.py
+subProcess.py
+output/dataset2/simTasks*
